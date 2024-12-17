@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Notification-related options -->
+    <item
+        android:id="@+id/notification_off"
+        android:title="Notifications: Off" />
+    <item
+        android:id="@+id/notification_30min"
+        android:title="Notifications: Every 30 Minutes" />
+    <item
+        android:id="@+id/notification_1hour"
+        android:title="Notifications: Every Hour" />
+
+    <!-- Topic-related options -->
+    <item
+        android:id="@+id/add_topic"
+        android:title="Add Topic" />
+    <item
+        android:id="@+id/delete_topic"
+        android:title="Delete Topic" />
+
+</menu>

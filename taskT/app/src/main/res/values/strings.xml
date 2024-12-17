@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">taskT</string>
+
+    <string-array name="input4_options">
+        <item>Category List</item>
+        <item>Algorithm and Coding</item>
+        <item>ASIC Study</item>
+        <item>PD Tool Study</item>
+        <item>Signoff Tool Study</item>
+        <item>Unix Apps and Tools</item>
+        <item>Meeting</item>
+        <item>Miscellaneous</item>
+        <item>Client Project</item>
+        <item>In-house Project</item>
+        <item>Personal Time</item>
+    </string-array>
+
+    <string-array name="input5_options">
+        <item>OpenROAD Study</item>
+        <item>RAK Study</item>
+        <item>Innovous UG Study</item>
+        <item>Refurbish VLSI Basics</item>
+        <item>Sign-off</item>
+        <item>Office Entry and Checking Plans</item>
+        <item>Prayer Break</item>
+        <item>Coffee/Tea Break</item>
+        <item>Cognitive Break</item>
+        <item>Cognitive Activities</item>
+        <item>Lunch Break</item>
+        <item>Weekly Sync for Team Fattah</item>
+        <item>Weekly Sync for Group Shady</item>
+        <item>TX-2024</item>
+    </string-array>
+
+
+</resources>
