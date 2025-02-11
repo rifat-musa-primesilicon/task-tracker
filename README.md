@@ -144,7 +144,7 @@ and many more!
 
 ## 📜 Dedicated to 
 
-`<name>ology`
+`traitors`
 
 
 </details>
